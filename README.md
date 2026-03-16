@@ -23,3 +23,16 @@ project-skeleton/
 Copyright © 2025 Copyright, Monash University
 
 
+Include a README.md file listing the members of your team (full names, student IDs, and Monash emails) and a short description of the project 
+- Alex Brimer
+     - abri0017@student.monash.edu
+     - Student ID:
+- Anna Kennedy
+     - aken0029@student.monash.edu
+     - Student ID: 33855846
+- Tristan Mifsud
+     - tmif0003@student.monash.edu
+     - Student ID:
+
+**Project Short Description: 
+**
